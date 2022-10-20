@@ -152,3 +152,4 @@ cython_debug/
 #.idea/
 config.py
 API_practice.ipynb
+random_numbers.ipynb
